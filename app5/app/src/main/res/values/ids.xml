@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="exit" type="id"/>
+    <item name="green" type="id"/>
+    <item name="red" type="id"/>
+    <item name="blue" type="id"/>
+    <item name="color" type="id"/>
+</resources>

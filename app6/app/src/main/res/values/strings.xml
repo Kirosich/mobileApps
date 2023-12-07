@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="channel_name">My Channel</string>
+    <string name="channel_description">Description of my channel</string>
+    <string name="notification_title">New Notification</string>
+    <string name="notification_text">Click the notification to open the app</string>
+    <string name="toast_text">Popup notification!</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="enter_text">Enter text</string>
+</resources>
